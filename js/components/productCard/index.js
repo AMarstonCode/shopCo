@@ -1,1 +1,1 @@
-// initial commit
+// init commit
