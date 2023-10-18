@@ -2,20 +2,20 @@
 
 
 .view-all-button {
-    background-color: #007BFF; 
-    color: #FFFFFF;
-    padding: 10px 20px; 
-    border: none; 
+    background-color: hwb(197 93% 4%); 
+    color: hsl(0, 87%, 6%);
+    padding: 10px 50px; 
+    border: 0; 
     border-radius: 25px; 
     cursor: pointer; 
-    font-size: 16px; 
+    font-size: 11px; 
     text-align: 
-    text-decoration: none; 
+    
   }
   
   
   .view-all-button:hover {
-    background-color: #0056b3;
+    background-color: hsl(210, 37%, 93%);
   }
   
   console.log(viewAllButton)
