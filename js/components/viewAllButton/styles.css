@@ -1,0 +1,20 @@
+
+
+
+.view-all-button {
+    background-color: white; 
+    color: hsl(0, 25%, 23%);
+    padding: 10px 50px; 
+    border-width: 1px; 
+    border-radius: 25px; 
+    cursor: pointer; 
+    font-size: 11px; 
+    border-color: rgba(0,0,0,10%);
+    border-style: solid;
+  }
+  
+  
+  .view-all-button:hover {
+    background-color: hsl(210, 37%, 93%);
+  }
+  
