@@ -2,15 +2,15 @@
 
 
 .view-all-button {
-    background-color: hwb(197 93% 4%); 
-    color: hsl(0, 87%, 6%);
+    background-color: white; 
+    color: hsl(0, 25%, 23%);
     padding: 10px 50px; 
-    border: 0; 
+    border-width: 1px; 
     border-radius: 25px; 
     cursor: pointer; 
     font-size: 11px; 
-    text-align: 
-    
+    border-color: rgba(0,0,0,10%);
+    border-style: solid;
   }
   
   
@@ -18,4 +18,3 @@
     background-color: hsl(210, 37%, 93%);
   }
   
-  console.log(viewAllButton)
