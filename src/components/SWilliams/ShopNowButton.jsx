@@ -7,8 +7,8 @@ const ShopNowButton = () => {
 <button className="shop-now-button">Shop Now</button>
         
         </>
-    )
+    );
 
-}
+};
 
 export default ShopNowButton;

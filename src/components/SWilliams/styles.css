@@ -4,5 +4,16 @@
     color: white;
     width: 150px;
     height: 40px;
-    
 }
+
+.view-all-button {
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    width: 150px;
+    height: 40px;
+    border-color: rgb(247, 245, 245);
+    border-style: solid;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}   
