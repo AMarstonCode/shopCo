@@ -38,5 +38,29 @@
     left: 20px;
 }
 
+.product-card {
+    width: 295px;
+    height: auto;
+    
+}
+
+.product-image {
+    width: 295px;
+    height: 298px;
+    border-radius: 20px;
+}
+
+.product-price {
+    font-weight: bold;
+    font-family: 'Courier Prime', Courier, monospace;
+    font-size: larger;
+}
+
+.product-name {
+    font-family: 'Courier Prime', Courier, monospace;
+    font-weight: bold;
+    
+}
+
 
 
