@@ -10,6 +10,6 @@ function App() {
       <ViewAllButton />
     </>
   );
-}
+};
 
 export default App;
