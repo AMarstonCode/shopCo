@@ -8,6 +8,6 @@ function App() {
       <SearchBar />
     </>
   );
-};
+}
 
 export default App;
