@@ -3,6 +3,7 @@ import "./styles.css";
 const ProductCard = ({ productImage, productName, productPrice }) => {
   return (
     <>
+    
       <div className="product-card">
         <img src={productImage} alt={productName} className="product-image" />
         <div className="product-details">
@@ -10,6 +11,8 @@ const ProductCard = ({ productImage, productName, productPrice }) => {
           <p className="product-price">${productPrice}</p>
         </div>
       </div>
+      
+    
     </>
   );
 };
