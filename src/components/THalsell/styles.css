@@ -169,3 +169,14 @@
 .s-btn {
     margin-bottom: 17px;
 }
+
+.copyright-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.all-rights-reserved {
+  color: grey;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
